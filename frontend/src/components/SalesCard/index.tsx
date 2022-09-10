@@ -49,12 +49,12 @@ function SalesCard() {
                     </thead>
                     <tbody>
                         <tr>
-                            <td className="show992">#341</td>
-                            <td className="show576">08/07/2022</td>
-                            <td>Anakin</td>
-                            <td className="show992">15</td>
-                            <td className="show992">11</td>
-                            <td>R$ 55300.00</td>
+                            <td className="show992">#000</td>
+                            <td className="show576">dd/MM/yyyy</td>
+                            <td>Bolt</td>
+                            <td className="show992">0</td>
+                            <td className="show992">0</td>
+                            <td>R$ 00.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButton />
@@ -62,12 +62,12 @@ function SalesCard() {
                             </td>
                         </tr>
                         <tr>
-                            <td className="show992">#341</td>
-                            <td className="show576">08/07/2022</td>
-                            <td>Anakin</td>
-                            <td className="show992">15</td>
-                            <td className="show992">11</td>
-                            <td>R$ 55300.00</td>
+                            <td className="show992">#000</td>
+                            <td className="show576">dd/MM/yyyy</td>
+                            <td>Bolt</td>
+                            <td className="show992">0</td>
+                            <td className="show992">0</td>
+                            <td>R$ 00.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButton />
@@ -75,12 +75,12 @@ function SalesCard() {
                             </td>
                         </tr>
                         <tr>
-                            <td className="show992">#341</td>
-                            <td className="show576">08/07/2022</td>
-                            <td>Anakin</td>
-                            <td className="show992">15</td>
-                            <td className="show992">11</td>
-                            <td>R$ 55300.00</td>
+                            <td className="show992">#000</td>
+                            <td className="show576">dd/MM/yyyy</td>
+                            <td>Bolt</td>
+                            <td className="show992">0</td>
+                            <td className="show992">0</td>
+                            <td>R$ 00.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButton />
